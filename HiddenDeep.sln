@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenDeep", "HiddenDeep\HiddenDeep.csproj", "{C57CA0AE-A691-41AD-AA77-E204FD940335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Debug|x86.ActiveCfg = Release|x86
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Debug|x86.Build.0 = Release|x86
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Release|x86.ActiveCfg = Release|x86
+		{C57CA0AE-A691-41AD-AA77-E204FD940335}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDEAE74A-6AF3-4DC7-8C86-7B819E100E1F}
+	EndGlobalSection
+EndGlobal
