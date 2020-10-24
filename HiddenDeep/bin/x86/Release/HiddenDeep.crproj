@@ -1,0 +1,6 @@
+<project outputDir="F:\C#\HiddenDeep\HiddenDeep\bin\x86\Release\Confused" baseDir="F:\C#\HiddenDeep\HiddenDeep\bin\x86\Release" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="minimum" inherit="false" />
+  <packer id="compressor" />
+  <module path="HiddenDeep.exe" />
+  <module path="JokinsRewrite.dll" />
+</project>
