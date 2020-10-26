@@ -80,8 +80,8 @@ namespace HiddenDeep
 
                     if (IsKeyPushedDown(Keys.LMenu) & IsKeyPushedDown(Keys.D9))
                     {
-                        int AssaultRifleAmmo = MultiPointer(0x03EB4E0, new int[] { 0x8, 0x20, 0xA4 }); //0x790
-                        jokin.WriteInt(AssaultRifleAmmo + 0x790, 9999);
+                        int AssaultRifleAmmo = MultiPointer(0x03EB5D8, new int[] { 0x1EC, 0xB8, 0x10, 0x8 }); //0x40
+                        jokin.WriteInt(AssaultRifleAmmo + 0x40, 9999);
                         Console.WriteLine("AssaultRifle Ammo 9999");
                     }
                     Thread.Sleep(100);
