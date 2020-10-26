@@ -43,7 +43,7 @@ namespace HiddenDeep
                 Console.WriteLine("-------------------------------------------");
                 Console.WriteLine("ALT+5 | Magnum Ammo 9999");
                 Console.WriteLine("ALT+6 | Scan Balls 9999");
-                Console.WriteLine("ALT+7 | Explosive Charges 9999");
+                Console.WriteLine("ALT+7 | Explosive Charges 9999 (Need atleast 1 Explosive Charge)");
                 Console.WriteLine("ALT+8 | HP % 9999");
                 Console.WriteLine("ALT+9 | AssaultRifle Ammo 9999");
                 Console.WriteLine("-------------------------------------------");
