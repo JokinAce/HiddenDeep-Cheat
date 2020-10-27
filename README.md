@@ -1,5 +1,6 @@
 # [W.I.P] HiddenDeep-Cheat
 Cheat for Game called "Hidden Deep". Training my Skills
+[Games Discord](https://discord.gg/QRQBFey "HiddenDeep") (You can download the Game there)
 
 I will add a Menu to it once the Game comes out. For now im just going to add Features to it.
 
@@ -17,5 +18,3 @@ I will add a Menu to it once the Game comes out. For now im just going to add Fe
 
 # Terms of Use
 1. You are not allowed to use it for Speedruns. (Anti-Speedrun is Active)
-
-[Games Discord](https://discord.gg/QRQBFey "HiddenDeep") (You can download the Game there)
