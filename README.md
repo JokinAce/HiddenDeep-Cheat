@@ -15,4 +15,7 @@ I will add a Menu to it once the Game comes out. For now im just going to add Fe
 3. Never start the Cheat when you are not in a Mission
 4. Stop the Cheat when near ending of a Mission (Unknown)
 
+# Terms of Use
+1. You are not allowed to use it for Speedruns. (Anti-Speedrun is Active)
+
 [Games Discord](https://discord.gg/QRQBFey "HiddenDeep") (You can download the Game there)
