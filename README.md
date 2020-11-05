@@ -20,3 +20,6 @@ I will add a Menu to it once the Game comes out. For now im just going to add Fe
 # Terms of Use
 1. You are not allowed to use it for Speedruns. (Anti-Speedrun is Active)
 2. You are not allowed to use it for Competitive advantage.
+
+# Credits
+To my self for JokinsRewrite
