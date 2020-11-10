@@ -22,4 +22,4 @@ I will add a Menu to it once the Game comes out. For now im just going to add Fe
 2. You are not allowed to use it for Competitive advantage.
 
 # Credits
-To my self for [JokinRewrite](https://github.com/JokinAce/JokinsRewrite) (JokinRewrite)
+To my self for [JokinRewrite](https://github.com/JokinAce/JokinsRewrite)
