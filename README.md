@@ -8,7 +8,7 @@ I will add a Menu to it once the Game comes out. For now im just going to add Fe
 1. Unlimited Health
 2. Unlimited Ammo (Both AssultRifle and Pistol)
 3. Unlimited Scan Balls
-4. Unlimited Explosive Charges
+4. Unlimited Explosive Charges (Need atleast one Explosive Charge)
 
 # How-to-Use
 1. Start Game and go into a Mission
