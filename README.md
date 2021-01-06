@@ -2,7 +2,8 @@
 Cheat for Game called "Hidden Deep". Training my Skills
 [Games Discord](https://discord.gg/QRQBFey "HiddenDeep") (You can download the Game there)
 
-I will add a Menu to it once the Game comes out. For now im just going to add Features to it.
+I will add a Menu to it once the Game comes out. For now im just going to add Features to it.  
+Cheat does not work anymore due to the Game got updated. Maybe later I will fix it
 
 # Features
 1. Unlimited Health
